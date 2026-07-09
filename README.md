@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Vasco
 
-<!-- Drop your own banner image at ./.assets/bg.jpg (same as GongRzhe) or update the src below -->
 <div align="center">
   <img src="./.assets/bg.jpg" width="100%" style="border-radius: 10px; margin-bottom: 20px;" alt="Cloud & AI Solutions Architect">
 </div>

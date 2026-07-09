@@ -5,16 +5,16 @@
 </div>
 
 <div align="center">
-  <h1>Vasco Costa</h1>
-  <p><i>Solutions Architect @ AWS | Cloud & AI | MBA</i></p>
-</div>
-
-<div align="center">
+  </br>
   <a href="mailto:oi@vascus.pt"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://www.linkedin.com/in/vascus"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://www.vascus.pt/"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Website"/></a>
   <a href="https://scholar.google.com/citations?user=fO21UBwAAAAJ"><img src="https://img.shields.io/badge/Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"/></a>
   <a href="https://www.discogs.com/user/atsoc0ocsav"><img src="https://img.shields.io/badge/Discogs-333333?style=for-the-badge&logo=discogs&logoColor=white" alt="Discogs"/></a>
+</div>
+
+<div align="center">
+  <p><i>Solutions Architect @ AWS | Cloud & AI | MBA</i></p>
 </div>
 
 ## 🌟 About Me
